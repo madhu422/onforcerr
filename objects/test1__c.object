@@ -2,7 +2,7 @@
 <CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
     <actionOverrides>
         <actionName>Accept</actionName>
-        <type>Default11</type>
+        <type>Default111</type>
     </actionOverrides>
     <actionOverrides>
         <actionName>CancelEdit</actionName>
